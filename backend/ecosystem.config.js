@@ -7,7 +7,7 @@ const { DEPLOY_USER, DEPLOY_HOST, DEPLOY_PATH, DEPLOY_REPOSITORY, DEPLOY_REF } =
 module.exports = {
   apps: [
     {
-      name: "mesto-pm2-deploy",
+      name: "mesto-pm2",
       script: "dist/app.js",
     },
   ],
