@@ -4,4 +4,4 @@
 
 - IP адрес 84.201.168.174
 - Frontend https://zeno.students.nomorepartiesco.ru
-- Backend https://api.zeno.students.nomorepartiesco.ru/
+- Backend https://api.zeno.students.nomorepartiesco.ru
